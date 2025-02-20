@@ -63,8 +63,8 @@ const scheduleData: ScheduleData = {
           venue: "Room No: 2204",
           type: "technical",
           coordinator: {
-            name: "Dr. CH. Chandrakala",
-            phone: "9440959794"
+            name: "Dr. CH. Chandrakala(9440959794),Mrs. K. Krishnapriya(9490228746)",
+            phone: ""
           },
           rules: [
             "Individual Participation",
@@ -130,7 +130,7 @@ const scheduleData: ScheduleData = {
           venue: "192 Lab",
           type: "technical",
           coordinator: {
-            name: "Mr. M.V.P. Uma Maheswara Rao",
+            name: "Mr. M.V.P. Uma Maheswara Rao, Mr.G.Sivannarayana,Mrs.Nahida",
             phone: "7382745151"
           },
           rules: [
@@ -143,7 +143,7 @@ const scheduleData: ScheduleData = {
           venue: "DBMS Lab",
           type: "technical",
           coordinator: {
-            name: "Mrs. CH. N. Santha Kumari",
+            name: "Mrs. CH. N. Santha Kumari Mrs.L.Indraja Mr.Raj Sagar",
             phone: "7207444601"
           },
           rules: [
@@ -155,7 +155,7 @@ const scheduleData: ScheduleData = {
           venue: "1214 Lab",
           type: "technical",
           coordinator: {
-            name: "Dr. G. Shobana",
+            name: "Dr. G. Shobana Mrs.V.Aruna Mrs.CH.Santhi",
             phone: "8985423344"
           },
           rules: [
@@ -167,7 +167,7 @@ const scheduleData: ScheduleData = {
           venue: "WT Lab",
           type: "technical",
           coordinator: {
-            name: "Mr. A. Tarak Ram",
+            name: "Mr. A. Tarak Ram Mr.S.Sai Bala Krishna Mrs.R.Rama Devi",
             phone: "8106356348"
           },
           rules: [
@@ -180,7 +180,7 @@ const scheduleData: ScheduleData = {
           venue: "R.V.R Knowledge center",
           type: "non-technical",
           coordinator: {
-            name: "Mrs. M. Lakshmi Durga",
+            name: "Mrs. M. Lakshmi Durga Dr.P.Durga Mrs.S.Sindhura",
             phone: "9030094592"
           }
         },
@@ -189,7 +189,7 @@ const scheduleData: ScheduleData = {
           venue: "R.V.R Knowledge center",
           type: "non-technical",
           coordinator: {
-            name: "Dr. G. Shobana",
+            name: "Dr. G. Shobana Mrs.V.Aruna Mrs.CH.Santhi",
             phone: "8985423344"
           }
         }
@@ -226,8 +226,8 @@ const scheduleData: ScheduleData = {
           venue: "Room 3204",
           type: "technical",
           coordinator: {
-            name: "Mr. N. Narasimha Rao",
-            phone: "8184972436"
+            name: "Mr. N. Narasimha Rao  Mrs.Ch. Bindu Sri",
+            phone: "8184972436,7207794076"
           },
           rules: [
             "Maximum of 3 participants per project/model",
@@ -274,8 +274,8 @@ const scheduleData: ScheduleData = {
           venue: "Between the Civil And Mechanical Block",
           type: "non-technical",
           coordinator: {
-            name: "Mrs. Ch. Bindu Sri",
-            phone: "7207794076"
+            name: "Mrs. Ch. Bindu Sri ,Mrs. K.Vijitha,  Ms. M.Tejaswini",
+            phone: "7207794076,7997605390,8179883362"
           },
           rules: [
             "Team event (Max. 2 participants)",
@@ -348,18 +348,22 @@ const scheduleData: ScheduleData = {
     "CSE-AIML": {
       name: "CSE-AIML",
       faculty_coordinator: {
-        name: "Mrs. Madhuri",
+        name: "Mrs. Madhuri/Mr. Pratap",
         phone: "9392832668"
       },
       student_coordinator: {
-        name: "K.Sripathi Rao",
-        phone: "8328109217"
+        name: "",
+        phone: ""
       },
       events: [
         {
           name: "Paper/PPT presentation",
           venue: "4201",
           type: "technical",
+          coordinator: {
+            name: "Mrs. Madhuri/Mr. Pratap",
+            phone: "9392832668"
+          },
           rules: [
             "Team size should be two"
           ]
@@ -369,7 +373,7 @@ const scheduleData: ScheduleData = {
           venue: "4205",
           type: "technical",
           coordinator: {
-            name: "Mr. SVR",
+            name: "Mr. SVR/Mr. Rajendra",
             phone: "9703820443"
           },
           rules: [
@@ -381,7 +385,7 @@ const scheduleData: ScheduleData = {
           venue: "4301",
           type: "technical",
           coordinator: {
-            name: "Mrs. Mangamma",
+            name: "Mrs. Mangamma/Mrs. Saidamma",
             phone: "9182990067"
           },
           rules: [
@@ -393,7 +397,7 @@ const scheduleData: ScheduleData = {
           venue: "Corridors of 2nd and 3rd floors",
           type: "technical",
           coordinator: {
-            name: "Mr. Rajesh",
+            name: "Mr. Rajesh/Mrs. Rani",
             phone: "9885963630"
           },
           rules: [
@@ -468,8 +472,8 @@ const scheduleData: ScheduleData = {
           type: "technical",
           time: "10:30AM",
           coordinator: {
-            name: "Mrs. B. Sneha Latha",
-            phone: "9949848112"
+            name: "Mrs. B. Sneha Latha(9949848112) Mr.N Gopi(8074749109)",
+            phone: ""
           },
           rules: [
             "Team Size 2 Members"
@@ -481,8 +485,8 @@ const scheduleData: ScheduleData = {
           type: "technical",
           time: "11:00AM",
           coordinator: {
-            name: "Mr. M Mahesh",
-            phone: "9290741749"
+            name: "Mr. M Mahesh(9290741749),Mrs N. Malathi(7901569899)",
+            phone: ""
           },
           rules: [
             "Team Size 2 Members"
@@ -494,8 +498,8 @@ const scheduleData: ScheduleData = {
           type: "technical",
           time: "11:00AM",
           coordinator: {
-            name: "Mrs. G. Sree Lakshmi",
-            phone: "8500523262"
+            name: "Mrs. G. Sree Lakshmi(8500523262),Mrs. P B Sudha Rani(8464844217)", 
+            phone: ""
           },
           rules: [
             "Team Size 3 Members"
@@ -507,8 +511,8 @@ const scheduleData: ScheduleData = {
           type: "technical",
           time: "01:00PM",
           coordinator: {
-            name: "Mr. D. Murali",
-            phone: "9848506089"
+            name: "Mr. D.Murali(9848506089) Mrs.K Swathi(8143388342) ",
+            phone: ""
           },
           rules: [
             "Team Size 3 Members"
@@ -586,8 +590,8 @@ const scheduleData: ScheduleData = {
           venue: "Room No: 4104",
           type: "technical",
           coordinator: {
-            name: "Dr. P.Siva naga sree",
-            phone: "9492348529"
+            name: "Dr. P.Siva naga sree,Mr.G.Durga Prasad ",
+            phone: "9492348529,9490659033"
           },
           rules: [
             "Maximum two persons per presentation are allowed",
@@ -603,8 +607,8 @@ const scheduleData: ScheduleData = {
           venue: "Block 5 corridor (5001)",
           type: "technical",
           coordinator: {
-            name: "Dr. K. Babu raja",
-            phone: "9494474128"
+            name: "Dr. K. Babu raja,Mr. M. Surendra ",
+            phone: "9494474128,9381935547"
           },
           rules: [
             "Only 3 persons per team"
@@ -615,8 +619,8 @@ const scheduleData: ScheduleData = {
           venue: "College ground",
           type: "technical",
           coordinator: {
-            name: "Dr. Siva Krishna",
-            phone: "9494639099"
+            name: "Dr. Siva Krishna,Mr. O.N.V.P.Bhagavan",
+            phone: "9494639099,9701207236"
           },
           rules: [
             "A team may consist of a maximum of 3 member",
@@ -649,8 +653,8 @@ const scheduleData: ScheduleData = {
           venue: "Drawing Hall (5201)",
           type: "non-technical",
           coordinator: {
-            name: "Ms.K. Bhargavi",
-            phone: "9573706007"
+            name: "Ms.K. Bhargavi,Mrs. A. Madhuri",
+            phone: "9573706007,6304586870"
           },
           rules: [
             "Only 1 persons per team",
@@ -749,7 +753,7 @@ const scheduleData: ScheduleData = {
           venue: "Room No: 1008",
           type: "technical",
           coordinator: {
-            name: "Mrs.P.Manasa",
+            name: "Mrs.P.Manasa,Ms.P.Shanthi,Ms.A.Akhila",
             phone: "7396173755"
           },
           rules: [
@@ -763,7 +767,7 @@ const scheduleData: ScheduleData = {
           venue: "Room No: 1009",
           type: "technical",
           coordinator: {
-            name: "Mrs.G.Dhana lakshmi",
+            name: "Mrs.G.Dhana lakshmi,Mr.T.Shanthi kumar,Mr.K.Charan babu",
             phone: "7013895587"
           },
           rules: [
@@ -777,7 +781,7 @@ const scheduleData: ScheduleData = {
           venue: "Room No: 1009",
           type: "technical",
           coordinator: {
-            name: "Mr.D.Naga Rajesh Varma",
+            name: "Mr.D.Naga Rajesh Varma,Mr.K.Hemanth Kumar,Mr.A.Rohit Kumar,Ms.R.Viraja",
             phone: "9963251690"
           },
           rules: [
@@ -791,7 +795,7 @@ const scheduleData: ScheduleData = {
           venue: "RVR",
           type: "non-technical",
           coordinator: {
-            name: "Mrs.G.Dhana lakshmi",
+            name: "Mrs.G.Dhana lakshmi,Ms.K.Hemanjali",
             phone: "7013895587"
           },
           rules: [
